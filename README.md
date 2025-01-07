@@ -5,7 +5,7 @@
 
 - 🌱Şuanda öğreniyorum; **Gömülü yazılım(Embedded software)**
 
-- 📫 Bana ulaşmak için; **ibrahimkeser.dev@gmail.com**
+- 📫 Bana ulaşmak için; **ibrahimkeser470@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
